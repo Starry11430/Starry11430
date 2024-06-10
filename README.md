@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Tizio Mauclair</h1>
 <h3 align="center">Full-stack Developper web</h3>
 
-## Qui suis-je ?
+### Qui suis-je ?
 
 Je suis un développeur passionné, spécialisé principalement dans le back-end. Mon expertise réside dans la conception et le développement d'applications robustes et performantes, avec une attention particulière portée à la qualité du code.
 
-## Adaptabilité et apprentissage continu
+### Adaptabilité et apprentissage continu
 
 Bien que mon expertise soit principalement axée sur le back-end, je suis toujours ouvert à apprendre de nouveaux langages et technologies. Je m'adapte rapidement aux nouveaux environnements de développement et j'aime relever des défis stimulants.
 
