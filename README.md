@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Tizio Mauclair</h1>
+<h1 align="center">- Tizio Mauclair -</h1>
 <h3 align="center">Full-stack Developper web</h3>
 
 ### Qui suis-je ?
